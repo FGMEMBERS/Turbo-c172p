@@ -14,6 +14,7 @@
     <metrics>
         <wingarea unit="FT2"> 174 </wingarea>
         <wingspan unit="FT"> 35.8 </wingspan>
+        <wing_incidence>     1.00 </wing_incidence>
         <chord unit="FT"> 4.9 </chord>
         <htailarea unit="FT2"> 21.9 </htailarea>
         <htailarm unit="FT"> 15.7 </htailarm>
@@ -43,7 +44,7 @@
         <ixy unit="SLUG*FT2"> -0 </ixy>
         <ixz unit="SLUG*FT2"> -0 </ixz>
         <iyz unit="SLUG*FT2"> -0 </iyz>
-        <emptywt unit="LBS"> 1500 </emptywt>
+        <emptywt unit="LBS"> 1900 </emptywt>
         <location name="CG" unit="IN">
             <x> 41 </x>
             <y> 0 </y>
@@ -205,7 +206,7 @@
                 </location>
                 <orient unit="DEG">
                     <roll> 0.0 </roll>
-                    <pitch> 0.0 </pitch>
+                    <pitch> -4.0 </pitch>
                     <yaw> 0.0 </yaw>
                 </orient>
                 <sense> 1 </sense>

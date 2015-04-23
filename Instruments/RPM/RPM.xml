@@ -21,10 +21,10 @@
   <type>rotate</type>
   <object-name>PointerCentre</object-name>
   <object-name>PointerTip</object-name>
-  <property>engines/engine[0]/n1</property>
+  <property>engines/engine/thruster/rpm</property>
   <interpolation>
-   <entry><ind>0</ind><dep>15</dep></entry>
-   <entry><ind>3000</ind><dep>257</dep></entry>
+   <entry><ind>0</ind><dep>0</dep></entry>
+   <entry><ind>3000</ind><dep>247</dep></entry>
   </interpolation>
   <axis> 
    <x>-1</x>

@@ -2,12 +2,12 @@
 
 <propeller name="Clark Y 0.08 thickness/chord ratio variable pitch">
   <ixx> 7.3 </ixx>
-  <diameter unit="IN"> 90.0 </diameter>
-  <numblades> 4 </numblades>
+  <diameter unit="IN"> 96.0 </diameter>
+  <numblades> 3 </numblades>
   <minpitch> 0 </minpitch>
   <maxpitch> 37 </maxpitch>
-  <minrpm>  1400 </minrpm>
-  <maxrpm> 2100 </maxrpm>
+  <minrpm>  1100 </minrpm>
+  <maxrpm> 2000 </maxrpm>
 
     <!-- <table name="C_THRUST" type="internal">
       <tableData>
