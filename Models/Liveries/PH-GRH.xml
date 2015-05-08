@@ -7,21 +7,21 @@
       
       
       <livery>
-        <name type="string">KLM</name>
+        <name type="string">Koninklijke Luchtmacht Historische Vlucht</name>
 	 <index type="int">6</index>
-	<texture>Liveries/fuselage.KLM.png</texture>
+	<texture>Liveries/fuselage.PH-GRH.png</texture>
 	      </livery>
       
        <liverytail>
-	     <name type="string">KLM</name>
+	     <name type="string">Koninklijke Luchtmacht Historische Vlucht</name>
 	     <index type="int">6</index>
-	    <texture>Liveries/tail.KLM.png</texture>
+	    <texture>Liveries/tail.PH-GRH.png</texture>
 	    	    </liverytail>
 	    
 	 <liverywing>
-	    <name type="string">KLM</name>
+	    <name type="string">Koninklijke Luchtmacht Historische Vlucht</name>
 	     <index type="int">6</index>
-	    <texture>Liveries/wing.KLM.png</texture>
+	    <texture>Liveries/wing.PH-GRH.png</texture>
 	    	    </liverywing>
 	    
 	    <c172p>
