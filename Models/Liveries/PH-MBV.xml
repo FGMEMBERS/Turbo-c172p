@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- created by KFJ-09 : Sky Service Nederland -->
+<PropertyList>
+<sim>
+	<model>
+
+		<livery>
+			<name type="string">Sky Service Netherlands</name>
+			<texture>Liveries/fuselage.PH-MBV.png</texture>
+		</livery>
+
+		<liverytail>
+			<texture>Liveries/tail.PH-MBV.png</texture>
+		</liverytail>
+
+		<liverywing>
+			<texture>Liveries/wing.PH-MBV.png</texture>
+		</liverywing>
+
+		<c172p>
+			<immat>false</immat>
+			<fairing1>false</fairing1>
+			<fairing2>false</fairing2>
+			<fairing3>false</fairing3>
+		</c172p>
+
+	</model>
+</sim>
+</PropertyList>
